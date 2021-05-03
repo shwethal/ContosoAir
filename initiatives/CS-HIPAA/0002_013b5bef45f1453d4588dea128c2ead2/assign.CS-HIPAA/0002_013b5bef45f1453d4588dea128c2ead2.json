@@ -1,0 +1,66 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "CS-HIPAA/0002",
+  "policyDefinitionId": "/subscriptions/20556249-62af-4d40-9904-115f21a94e2d/providers/Microsoft.Authorization/policySetDefinitions/013b5bef45f1453d4588dea128c2ead2",
+  "scope": "/subscriptions/20556249-62af-4d40-9904-115f21a94e2d",
+  "parameters": {
+   "b363ae5a43fa3f96f52901e2d3be8eee_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "a6d772b4fe6af67a5cb6d4b899aa3ede_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "e5c8d440006052ca499f5989997c1885_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "d54ddddad7278dfd2cfed1b607fcbede_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "413a6af8fe84841a02e4b72c2715a298_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "3451f959425dc6e2a67d0f04e21504bd_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "a4f97d11157240749dba5a1fd826b350_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "204dcd8c4a855a569867de0df3e1eb2b_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "06de1cecc75d0d18dc5a0387b6927f49_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "f368e5b3f2e3ad237d93e52e0a78c653_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "09ef997c4b21309bedc4cdfd28f0a5ed_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "82eecf034908bca1a50f9edcd3824847_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "03decd98efb20d9b9e722b4ed68a7789_effect": {
+    "value": "AuditIfNotExists"
+   },
+   "33c1dede049cf40c225bc44856d8b7b7_effect": {
+    "value": "AuditIfNotExists"
+   }
+  },
+  "description": "CS-HIPAA/0002",
+  "metadata": {
+   "createdOn": "2020-08-28T11:58:28.858719Z",
+   "updatedBy": "8cc83aa0-d76e-4a9f-a8bc-1e029c82b615",
+   "createdBy": "8cc83aa0-d76e-4a9f-a8bc-1e029c82b615",
+   "updatedOn": "2020-09-10T20:10:45.0279661Z"
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/20556249-62af-4d40-9904-115f21a94e2d/providers/Microsoft.Authorization/policyAssignments/013b5bef45f1453d4588dea128c2ead2",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "013b5bef45f1453d4588dea128c2ead2"
+}
